@@ -75,9 +75,6 @@ describe DockingStation do
     expect(station.available_bikes).to eq([working_bike])
   end
 
-
-
->>>>>>> 01db682173323c23f9099a4dd1c8c1aaa0570e92
 end
 
 
